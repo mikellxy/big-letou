@@ -1,6 +1,9 @@
 # big-letou
 对大乐透彩票  
 
+使用效果如下，好吧又没中。。。  
+![imgage](https://github.com/mikellxy/big-letou/master/images/example.png)
+
 requests模块获取大乐透开奖网站的html文本：  
 ```.env
 url = 'http://kaijiang.500.com/shtml/dlt/19095.shtml'
